@@ -2,9 +2,6 @@
 
 Runy on Rails Responsive Chat Layout Application (Mobile First) that respond to different screen sizes, using Tailwind CSS Framework and Slim Templates.
 
-![Mobile](screens/chat-app-mobile.png "Mobile Screen")
-![Desktop](screens/chat-app-desktop.png "Mobile Screen")
-
 Requirements
 ------------
 This app requires the following to run:
@@ -30,5 +27,12 @@ bundle install
 ```bash
 rails c
 ```
+
+## Screenshots
+
+| Mobile   | Desktiop |
+|----------|:-------------:|
+| ![Mobile](screens/chat-app-mobile.png "Mobile Screen") |  ![Desktop](screens/chat-app-desktop.png "Desktop Screen") |
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
