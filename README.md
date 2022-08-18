@@ -28,7 +28,7 @@ bundle install
 ```bash
 rails s
 ```
-Now you just need to access the http://localhost:3000 in your browser.
+Now you just need to access the http://127.0.0.1:3000 in your browser.
 
 ## Screenshots
 
