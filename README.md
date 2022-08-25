@@ -1,4 +1,4 @@
-# Chat: Also For Sale (TEST)
+# Chat: Ruby On Rails (TEST)
 
 Ruby on Rails Responsive Chat Layout Application (Mobile First) that respond to different screen sizes, using Tailwind CSS Framework and Slim Templates.
 
