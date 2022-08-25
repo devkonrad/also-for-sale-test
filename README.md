@@ -20,7 +20,7 @@ This app uses the following technologies:
 This App was written on Rails 7, so it use the basic rails workflow. After clone this REPO, you need to run the commands bellow.
 
 ```bash
-cd also-for-sale-test
+cd ruby-on-rails-test
 bundle install
 ```
 
